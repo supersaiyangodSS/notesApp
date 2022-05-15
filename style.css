@@ -103,7 +103,7 @@ textarea {
         justify-content: center;
     }
     .note {
-        margin-top: 1rem;
+        margin: 1rem;
     }
     .add-note {
         top: initial;
