@@ -105,9 +105,4 @@ textarea {
     .note {
     margin: 15px;
     }
-    .add-note {
-        top: initial;
-        right: 10px;
-        bottom: 20px;
-    }
 }
