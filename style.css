@@ -102,10 +102,11 @@ textarea {
         justify-content: center;
     }
     .note {
-    margin: 80px 15px 15px 15px;
+    margin: 15px 15px 15px 15px;
     }
     .add-note {
         top: initial;
+        right: 10px;
         bottom: 20px;
     }
 }
