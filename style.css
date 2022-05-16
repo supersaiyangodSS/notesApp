@@ -16,8 +16,7 @@ body {
 }
 
 .note {
-    margin: 1rem;
-    margin-top: 80px;
+    margin: 80px 15px 15px 15px;
     width: 350px;
     height: 250px;
     background: #cecece;
@@ -103,7 +102,7 @@ textarea {
         justify-content: center;
     }
     .note {
-        margin: 1rem;
+    margin: 80px 15px 15px 15px;
     }
     .add-note {
         top: initial;
