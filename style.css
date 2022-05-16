@@ -59,7 +59,7 @@ textarea {
 }
 
 .add-note {
-    position: absolute;
+    position: fixed;
     right: 15px;
     top: 15px;
     display: flex;
