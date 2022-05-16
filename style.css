@@ -60,7 +60,7 @@ textarea {
 }
 
 .add-note {
-    position: fixed;
+    position: absolute;
     right: 15px;
     top: 15px;
     display: flex;
